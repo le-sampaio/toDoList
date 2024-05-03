@@ -9,4 +9,5 @@
 <li>React Native</li>
 </ul>
 
-<h2>Vizualizar o Projeto: https://let-sampaio.github.io/toDoList/</h2>
+<h2>Vizualizar o Projeto:</h2>
+<img src="img\tela .png">
