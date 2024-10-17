@@ -9,5 +9,4 @@
 <li>React Native</li>
 </ul>
 
-<h2>Vizualizar o Projeto:</h2>
-<img src="img\tela .png">
+<h2>Vizualizar o Projeto: https://to-do-list-umber-ten-22.vercel.app/</h2>
